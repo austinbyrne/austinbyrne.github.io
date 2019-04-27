@@ -4,3 +4,9 @@ body {
   margin: 0 auto;
   max-width: 50em;
 }
+
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+body {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
